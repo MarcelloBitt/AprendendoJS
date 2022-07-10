@@ -1,4 +1,4 @@
-<h1> Repositório JavaSxript</h1>
+<h1> Repositório JavaScript</h1>
 Exercícios do processo de aprendizagem JS
 
 
